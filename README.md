@@ -1,2 +1,2 @@
 # assignment01
-This assignmet is machine learning of chung-ang university.
+This assignnmet is a machine learning of assignment at chung-ang university.
